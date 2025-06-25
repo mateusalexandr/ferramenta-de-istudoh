@@ -1,10 +1,10 @@
 body {
-    background-color: aqua;
+    background-color: rgb(40, 47, 47);
     font-family: Caprasimo;
 }
 
 footer {
-    background-color: rgb(71, 67, 67);
+    background-color: rgb(255, 255, 255);
     color: antiquewhite;
     position:fixed;
     bottom: 0;
