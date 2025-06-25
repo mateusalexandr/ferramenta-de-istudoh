@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+footer {
+    background-color: rgb(71, 67, 67);
+    color: antiquewhite;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
