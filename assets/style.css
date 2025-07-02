@@ -49,7 +49,7 @@ background-color: var(--card-front-color);
 }
 
 footer {
-    background-color: rgb(40, 47, 47);
+    background-color: rgb(255, 255, 255);
     color: antiquewhite;
     position:fixed;
     bottom: 0;
